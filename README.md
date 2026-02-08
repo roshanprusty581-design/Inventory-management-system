@@ -12,8 +12,12 @@
 
 ## ✨ Overview
 
+<img width="675" height="525" alt="📦 Inventory Management System - visual selection" src="https://github.com/user-attachments/assets/2687dfe3-b5fb-47b8-b5a2-b2c5a76c121a" />
+
 This project is a **backend-focused inventory management system** following clean architecture principles.  
 It separates **configuration**, **database models**, and **business logic (services)** to keep the codebase maintainable, extensible, and production-ready.
+
+<img width="912" height="528" alt="📦 Inventory Management System - visual selection (1)" src="https://github.com/user-attachments/assets/6cf87dd4-1a42-43f3-bfa5-c498fabc5611" />
 
 The system supports:
 - Product management
@@ -41,6 +45,9 @@ The system supports:
 ## 🏗️ Project Architecture
 
 The project follows a **layered architecture**:
+
+<img width="1046" height="520" alt="📦 Inventory Management System - visual selection (2)" src="https://github.com/user-attachments/assets/3c64f966-e0ad-45ef-9f47-aa9ebb320506" />
+
 
 ```bash
 Inventory-management-system/
