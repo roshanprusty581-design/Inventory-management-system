@@ -21,6 +21,7 @@ The system supports:
 - Stock tracking
 - Sales & purchase handling
 - Low-stock alert logic
+<img width="1357" height="544" alt="image" src="https://github.com/user-attachments/assets/51c20732-4544-4324-89f8-61209b47b328" />
 
 ---
 
