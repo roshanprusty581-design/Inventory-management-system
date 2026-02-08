@@ -1,4 +1,4 @@
-````markdown
+
 # 📦 Inventory Management System
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
