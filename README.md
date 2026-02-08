@@ -177,14 +177,7 @@ git commit -m "Add your feature"
 
 4. Push & create a Pull Request
 
----
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
-You are free to use, modify, and distribute it.
-
----
 
 ## 👨‍💻 Author
 
